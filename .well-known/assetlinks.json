@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.kumbhconnect.nashik",
+      "sha256_cert_fingerprints": [
+        "4D:74:F4:BB:53:2A:E4:2B:3B:21:46:97:D9:EA:B0:97:F9:97:FE:1C:BF:7B:EA:3D:77:77:4B:77:14:CB:07:CD"
+      ]
+    }
+  }
+]
